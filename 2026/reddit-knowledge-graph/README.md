@@ -41,7 +41,7 @@
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-org/reddit-knowledge-graph.git
+git clone https://github.com/SquireGraphs/bensquire-medium-blogs/reddit-knowledge-graph.git
 cd reddit-knowledge-graph
 python -m venv .venv
 source .venv/bin/activate       # Windows: .venv\Scripts\activate
