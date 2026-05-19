@@ -1,6 +1,6 @@
 # Sumo Graph Analytics
 
-A graph analytics pipeline combining **Neo4j Graph Analytics for Snowflake** with **Snowflake SQL** to uncover competitive insights from professional sumo bout history. This repository accompanies the blog post *"From Bouts to Insights: Chaining Graph Algorithms on the Dohyō"*.
+A graph analytics pipeline combining **Neo4j Graph Analytics for Snowflake** with **Snowflake SQL** to uncover competitive insights from professional sumo bout history. This repository accompanies the blog post *"SumoDB in Neo4j: Chaining Multiple Graph Algorithms in Snowflake - Part 3"*.
 
 ## What This Analysis Does
 
